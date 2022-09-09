@@ -1,5 +1,8 @@
 package com.cleancode.houseutils.policy;
-
+/**
+ * @author ggmd
+ *
+ * */
 public interface BrokeragePolicy {
     BrokerageRule createBrokerageRule (Long price);
 

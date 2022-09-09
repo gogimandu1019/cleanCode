@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e15b272-d164-4496-a696-84e97c06df8a" name="Changes" comment="20220904">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/constants/ActionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/controller/BrokerageQueryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokeragePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokeragePolicyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokerageRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/PurchaseBrokeragePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/RentBrokeragePolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/http/brokerage.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+    <list default="true" id="8e15b272-d164-4496-a696-84e97c06df8a" name="Changes" comment="20220907">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/controller/BrokerageQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/controller/BrokerageQueryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/controller/HealthCheckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/controller/HealthCheckController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokeragePolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokeragePolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokeragePolicyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokeragePolicyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokerageRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cleancode/houseutils/policy/BrokerageRule.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="rest.client.default.execution.environment" value="sandbox" />
+    <property name="rest.client.default.execution.environment" value="dev" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
@@ -135,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662289000695</updated>
-      <workItem from="1662289004898" duration="7173000" />
+      <workItem from="1662289004898" duration="9618000" />
     </task>
     <task id="LOCAL-00001" summary="20220904">
       <created>1662290967955</created>
@@ -144,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662290967955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20220907">
+      <created>1662554506046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662554506046</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +166,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20220904" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220904" />
+    <MESSAGE value="20220907" />
+    <option name="LAST_COMMIT_MESSAGE" value="20220907" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

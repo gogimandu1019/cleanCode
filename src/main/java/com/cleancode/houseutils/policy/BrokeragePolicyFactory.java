@@ -1,7 +1,9 @@
 package com.cleancode.houseutils.policy;
 
 import com.cleancode.houseutils.constants.ActionType;
-
+/**
+ * @author ggmd
+ * */
 public class BrokeragePolicyFactory {
     public static BrokeragePolicy of(ActionType actionType){
         switch(actionType){
