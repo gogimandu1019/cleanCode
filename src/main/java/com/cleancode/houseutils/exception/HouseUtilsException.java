@@ -1,7 +1,7 @@
 package com.cleancode.houseutils.exception;
 
 /**
- * @author Happy
+ * @author ggmd
  */
 public class HouseUtilsException extends RuntimeException {
     private ErrorCode errorCode;

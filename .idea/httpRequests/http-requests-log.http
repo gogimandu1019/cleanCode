@@ -1,3 +1,203 @@
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-12T181326.200.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=RENT
+
+<> 2022-09-11T114643.200.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T114640.200.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=RENT
+
+<> 2022-09-11T114217.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T113636.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=RENT
+
+<> 2022-09-11T113555-1.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T113555.500.json
+
+###
+
+GET http://localhost:8080/api/calc/brokerage?actionType=RENT&price=1000000000
+
+<> 2022-09-11T113555-1.200.json
+
+###
+
+GET http://localhost:8080/api/calc/brokerage?actionType=PURCHASE&price=1000000000
+
+<> 2022-09-11T113555.200.json
+
+###
+
+GET http://{{host}}/api/calc/apartment/1?actionType=RENT
+
+###
+
+GET http://{{host}}/api/calc/apartment/1?actionType=PURCHASE
+
+###
+
+GET http://{{host}}/api/calc/brokerage?actionType=RENT&price=1000000000
+
+###
+
+GET http://{{host}}/api/calc/brokerage?actionType=PURCHASE&price=1000000000
+
+###
+
+GET http://{{host}}/api/calc/apartment/1?actionType=RENT
+
+###
+
+GET http://{{host}}/api/calc/apartment/1?actionType=PURCHASE
+
+###
+
+GET http://{{host}}/api/calc/brokerage?actionType=RENT&price=1000000000
+
+###
+
+GET http://{{host}}/api/calc/brokerage?actionType=PURCHASE&price=1000000000
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T113441.500.json
+
+###
+
+GET http://localhost:8080/api/calc/brokerage?actionType=RENT&price=1000000000
+
+<> 2022-09-11T113113.200.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T113034.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/{{apartmentId}}
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T112641.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T112533.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/value
+
+<> 2022-09-11T112440.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T112340.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/{{aprartmentId}}
+
+###
+
+GET http://localhost:8080/api/calc/brokerage
+
+<> 2022-09-11T112132.400.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/{{aprartmentId}}
+
+###
+
+GET http://localhost:8080/api/calc/apartment/{{aprartmentId}}
+
+###
+
+GET http://localhost:8080/api/calc/apartment/{{aprartmentId}}
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T112101.500.json
+
+###
+
+GET http://{{host}}/api/calc/apartment/1?actionType=RENT
+
+###
+
+GET http://localhost:8080/api/calc/brokerage?actionType=RENT&price=1000000000
+
+<> 2022-09-11T111858.200.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T111855.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T111837.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T111821.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T105556.500.json
+
+###
+
+GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
+
+<> 2022-09-11T103903.404.json
+
+###
+
 GET http://localhost:8080/api/calc/brokerage?actionType=RENT&price=1000000000
 
 <> 2022-09-07T214005.200.json
@@ -67,90 +267,6 @@ GET http://localhost:8080/api/ping
 GET http://localhost:8080/api/calc/apartment/1?actionType=RENT
 
 <> 2021-09-02T110648.200.json
-
-###
-
-GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
-
-<> 2021-09-02T110640.200.json
-
-###
-
-GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
-
-<> 2021-09-02T104859.500.json
-
-###
-
-GET http://localhost:8080/api/calc/brokerage?actionType=RENT&price=1000000000
-
-<> 2021-09-02T104856.200.json
-
-###
-
-GET http://localhost:8080/api/calc/brokerage?actionType=PURCHASE&price=1000000000
-
-<> 2021-09-02T104853.200.json
-
-###
-
-GET http://localhost:8080/api/ping
-
-<> 2021-09-02T104844.200.txt
-
-###
-
-GET http://localhost:8080/api/calc/apartment/1?actionType=RENT
-
-<> 2021-08-19T232519.200.json
-
-###
-
-GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
-
-<> 2021-08-19T232512.200.json
-
-###
-
-GET http://localhost:8080/api/calc/apartment/1?actionType=PURCHASE
-
-<> 2021-08-19T232235.500.json
-
-###
-
-GET http://localhost:8080/api/calc/brokerage?actionType=RENT&price=1000000000
-
-<> 2021-08-19T214918.200.json
-
-###
-
-GET http://localhost:8080/api/calc/brokerage?actionType=PURCHASE&price=1000000000
-
-<> 2021-08-19T214905.200.json
-
-###
-
-GET http://localhost:8080/api/calc/brokerage?actionType=RENT&price=1000000000
-
-###
-
-GET http://localhost:8080/api/calc/brokerage?actionType=PURCHASE&price=1000000000
-
-###
-
-GET http://localhost:8080/api/ping
-
-<> 2021-08-19T210137.200.txt
-
-###
-
-GET http://localhost:8080/api/ping
-
-<> 2021-08-19T210008.200.txt
-
-###
-
-GET http://locahost:8080/api/ping
 
 ###
 
